@@ -5,12 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/hh747hh/workflows.git"
   },
   "author": "Woo Yun",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.2",
     "gulp-util": "^3.0.7"
   }
 }
